@@ -55,7 +55,7 @@ Here's a glimpse of my skills and experience:
 
 I am always ready and eager to take on new challenges as a full stack developer, leveraging my skills to create end-to-end solutions for complex projects.
 
-- :mailbox:How to reach me: For  WhatsApp [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-blue?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923414336030&text=Hello!%20I%27m%20interested%20to%20discuss%20project%20with%20you.)  Linkdin: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awaisranaofficial) Gmail:  [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:awais.hameedrana1@gmail.com)
+- :mailbox:How to reach me: For  WhatsApp [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-blue?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923334088837&text=Hello!%20I%27m%20interested%20to%20discuss%20project%20with%20you.)  Linkdin: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awaisranaofficial) Gmail:  [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:awais.hameedrana1@gmail.com)
 </div>
 
  

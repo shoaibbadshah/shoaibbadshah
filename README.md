@@ -6,11 +6,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/awaisranaofficial">
+  <a href="https://www.linkedin.com/in/shoaibbadshah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="mailto:awais.hameedrana1@gmail.com">
+  <a href="mailto:shoaibbadshah2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=google&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -55,14 +55,14 @@ Here's a glimpse of my skills and experience:
 
 I am always ready and eager to take on new challenges as a full stack developer, leveraging my skills to create end-to-end solutions for complex projects.
 
-- :mailbox:How to reach me: For  WhatsApp [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-blue?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923334088837&text=Hello!%20I%27m%20interested%20to%20discuss%20project%20with%20you.)  Linkdin: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awaisranaofficial) Gmail:  [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:awais.hameedrana1@gmail.com)
+- :mailbox:How to reach me: For  WhatsApp [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-blue?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923334088837&text=Hello!%20I%27m%20interested%20to%20discuss%20project%20with%20you.)  Linkdin: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibbadshah) Gmail:  [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:shoaibbadshah2@gmail.com)
 </div>
 
  
  Thanks 
  ---
   
- Awais Hameed Rana
+ Eng. Shoaib Badshah
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -90,7 +90,7 @@ I am always ready and eager to take on new challenges as a full stack developer,
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awaisrana12&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shoaibbadshah&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
@@ -102,12 +102,6 @@ I am always ready and eager to take on new challenges as a full stack developer,
 <img src="https://wakatime.com/share/@awaisrana12/ca99e727-2293-4074-90e7-894791f26b6f.svg" width="1000" height="500"/>
 
 
-
-
-<!---
-awaisrana12/awaisrana12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 ### Hi there 👋
